@@ -1,0 +1,3 @@
+Projeto AppInvestimentos
+
+Rodar backend: Para rodar o back end é necessário abrir o admin postgree e rodar o comando no terminal do vscode dentro da pasta do backend "mvn spring-boot:run"
